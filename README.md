@@ -41,12 +41,16 @@
     <li>Toastify messages to display user notifications</li>
     <li>Real-time re-rendering of UI components (e.g. shopping cart item count, inventory level tag)</li>
   </ul>
+
+https://github.com/user-attachments/assets/92bc147b-07dc-42a5-a983-3cb38107dc82
+
+
+  
+  <br/>
   <div align="center">
-    <img src="assets/feature-1.gif" alt="ScreenShot-1" width="480" height="225">
+    <img src="assets/feature-1.gif" alt="ScreenShot-1" width="450" height="281">
     <span>&ensp;&ensp;&ensp;&ensp;&ensp;</span>
-    <img src="assets/feature-2.gif" alt="ScreenShot-2" width="480" height="225">
-    <span>&ensp;&ensp;&ensp;&ensp;&ensp;</span>
-    <img src="assets/feature-3.gif" alt="ScreenShot-3" width="480" height="225">
+    <img src="assets/feature-2.gif" alt="ScreenShot-2" width="450" height="281">
   </div>
   <br/>
   <p align="right"><a href="#readme-top">back to top</a></p>
