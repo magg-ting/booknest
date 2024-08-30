@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/magg-ting/booknest">
-    <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">BookNest</h1>
@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 <div id="about-the-project">
   <h2>About the Project</h2>
-  <p>BookNest is an online bookstore application developed using the MERN (MongoDB, Express, React, Node.js)  stack and follows the MVC architecture.  The  goal  of  the  project  was  to  create  a  user-friendly  and  feature-rich  ecommerce  platform for book enthusiasts to discover and purchase their favorite titles.</p>
+  <p>BookNest is an online bookstore application developed using the MERN stack and follows the MVC architecture.  The  goal  of  the  project  is  to  create  a  user-friendly  and  feature-rich  ecommerce  platform for book enthusiasts to discover and purchase their favorite titles.</p>
   <h3>Key Features:</h3>
   <ul>
     <li>Email registration and Google sign-in supported by Firebase</li>
@@ -42,11 +42,11 @@
     <li>Real-time re-rendering of UI components (e.g. shopping cart item count, inventory level tag)</li>
   </ul>
   <div align="center">
-    <img src="assets/images/feature-1.gif" alt="ScreenShot-1" width="480" height="225">
+    <img src="assets/feature-1.gif" alt="ScreenShot-1" width="480" height="225">
     <span>&ensp;&ensp;&ensp;&ensp;&ensp;</span>
-    <img src="assets/images/feature-2.gif" alt="ScreenShot-2" width="480" height="225">
+    <img src="assets/feature-2.gif" alt="ScreenShot-2" width="480" height="225">
     <span>&ensp;&ensp;&ensp;&ensp;&ensp;</span>
-    <img src="assets/images/feature-3.gif" alt="ScreenShot-3" width="480" height="225">
+    <img src="assets/feature-3.gif" alt="ScreenShot-3" width="480" height="225">
   </div>
   <br/>
   <p align="right"><a href="#readme-top">back to top</a></p>
@@ -70,10 +70,10 @@
 <h2>Future Enhancements</h2>
 <p>The app is currently meant to be a POC only. Some possible enhancements include:</p>
 <ul>
-  <li>Inclusion of time offset for each order entry in the database to support searching the order records by time period</li>
-  <li>Payment gateway</li>
+  <li>Inclusion of time offset for each order entry to support searching the order records by time period</li>
+  <li>Payment gateway setup</li>
   <li>Filtering books by genre</li>
-  <li>Email verification for user registration</li>
+  <li>Email and password verification and for user registration</li>
 </ul>
 <p align="right"><a href="#readme-top">back to top</a></p>
 </div>
@@ -82,11 +82,11 @@
 <div id="developers">
   <h2>Development Team</h2>
   <ul>
-    <li>Magg - Database, server and API setup, Firebase authentication, admin page setup, and overall project coordination and conflict resolution</li>
-    <li>Srishti - Homepage UI design</li>
-    <li>Sargam - Book search and sorting functionalities, Shopping Cart UI design</li>
-    <li>Mehakdeep - Shopping Cart calculation logic</li>
-    <li>Yuvraj - Book Details page UI design</li>
+    <li><strong>Magg</strong> - Database, server and API setup, Firebase authentication, admin page setup, and overall project coordination and conflict resolution</li>
+    <li><strong>Srishti</strong> - Homepage UI design</li>
+    <li><strong>Sargam</strong> - Book search and sorting functionalities, Shopping Cart UI design</li>
+    <li><strong>Mehakdeep</strong> - Shopping Cart calculation logic</li>
+    <li><strong>Yuvraj</strong> - Book Details page UI design</li>
   </ul>
   <p align="right"><a href="#readme-top">back to top</a></p>
 </div>
