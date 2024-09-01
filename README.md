@@ -48,9 +48,9 @@ https://github.com/user-attachments/assets/92bc147b-07dc-42a5-a983-3cb38107dc82
   
   <br/>
   <div align="center">
-    <img src="assets/feature-1.gif" alt="ScreenShot-1" width="300" height="187">
+    <img src="assets/feature-1.gif" alt="ScreenShot-1" width="400" >
     <span>&ensp;</span>
-    <img src="assets/feature-2.gif" alt="ScreenShot-2" width="300" height="187">
+    <img src="assets/feature-2.gif" alt="ScreenShot-2" width="400" >
   </div>
   <br/>
   <p align="right"><a href="#readme-top">back to top</a></p>
